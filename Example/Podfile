@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MGJRouter-Swift_Example' do
+  pod 'MGJRouter-Swift', :path => '../'
+
+  target 'MGJRouter-Swift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
