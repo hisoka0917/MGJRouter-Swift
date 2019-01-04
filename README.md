@@ -22,8 +22,10 @@ pod 'MGJRouter-Swift'
 
 ## Author
 
-erepyon@erepyon.edu.tf, kai.wang@manaowan.com
+hisoka0917@gmail.com
 
 ## License
 
 MGJRouter-Swift is available under the MIT license. See the LICENSE file for more info.
+
+
