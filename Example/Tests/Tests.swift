@@ -1,5 +1,5 @@
 import XCTest
-import MGJRouter-Swift
+import MGJRouter_Swift
 
 class Tests: XCTestCase {
     

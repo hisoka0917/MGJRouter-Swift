@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MGJRouter-Swift'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MGJRouter-Swift.'
+  s.summary          = 'An iOS URL Router.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,15 +21,15 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/erepyon@erepyon.edu.tf/MGJRouter-Swift'
+  s.homepage         = 'https://github.com/hisoka0917/MGJRouter-Swift.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'erepyon@erepyon.edu.tf' => 'kai.wang@manaowan.com' }
-  s.source           = { :git => 'https://github.com/erepyon@erepyon.edu.tf/MGJRouter-Swift.git', :tag => s.version.to_s }
+  s.author           = { 'hisoka0917' => 'hisoka0917@gmail.com' }
+  s.source           = { :git => 'https://github.com/hisoka0917/MGJRouter-Swift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
+  s.swift_version = "4.2"
   s.ios.deployment_target = '8.0'
-
   s.source_files = 'MGJRouter-Swift/Classes/**/*'
   
   # s.resource_bundles = {
@@ -38,5 +38,4 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end

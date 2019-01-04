@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MGJRouter-Swift
 //
-//  Created by erepyon@erepyon.edu.tf on 01/04/2019.
-//  Copyright (c) 2019 erepyon@erepyon.edu.tf. All rights reserved.
+//  Created by hisoka0917 on 01/04/2019.
+//  Copyright (c) 2019 hisoka0917. All rights reserved.
 //
 
 import UIKit
